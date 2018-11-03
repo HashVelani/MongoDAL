@@ -1,0 +1,19 @@
+{
+  "name": "mongodal",
+  "version": "1.0.0",
+  "description": "mongo dal in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashVelani/MongoDAL.git"
+  },
+  "author": "Hash Velani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HashVelani/MongoDAL/issues"
+  },
+  "homepage": "https://github.com/HashVelani/MongoDAL#readme"
+}

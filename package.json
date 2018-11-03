@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/HashVelani/MongoDAL/issues"
   },
-  "homepage": "https://github.com/HashVelani/MongoDAL#readme"
+  "homepage": "https://github.com/HashVelani/MongoDAL#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "typescript": "^3.1.6"
+  }
 }

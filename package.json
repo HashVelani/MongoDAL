@@ -16,10 +16,25 @@
     "url": "https://github.com/HashVelani/MongoDAL/issues"
   },
   "homepage": "https://github.com/HashVelani/MongoDAL#readme",
-  "dependencies": {},
+  "dependencies": {
+    "common-errors": "^1.0.5",
+    "lodash": "^4.17.11",
+    "mongodb": "^3.1.10",
+    "typechecker": "^4.7.0"
+  },
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-typescript": "^5.0.0-alpha.3",
-    "typescript": "^3.1.6"
+    "@types/chai": "^4.1.7",
+    "@types/common-errors": "^1.0.0",
+    "@types/lodash": "^4.14.119",
+    "@types/mocha": "^5.2.5",
+    "@types/mongodb": "^3.1.17",
+    "chai": "^4.2.0",
+    "gulp": "^4.0.0",
+    "gulp-mocha": "^6.0.0",
+    "gulp-sequence": "^1.0.0",
+    "gulp-typescript": "^5.0.0",
+    "mocha": "^5.2.0",
+    "run-sequence": "^2.2.1",
+    "typescript": "^3.2.2"
   }
 }
